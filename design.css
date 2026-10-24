@@ -140,3 +140,4 @@ h1,h2,h3,.closing h2{font-family:Unbounded,Manrope,sans-serif;font-weight:400;le
 @media(max-width:800px){.hero-edition h1{font-size:clamp(32px,6.3vw,52px)}.hero .editorial{font-size:.78em}.request-heading h1{font-size:clamp(30px,5.7vw,43px)}.form-card h2{font-size:27px}}
 @media(max-width:480px){.hero-edition h1{font-size:clamp(23px,7.4vw,34px)}.hero .editorial{font-size:.8em}.section-head h2{font-size:28px}.garment-card h3{font-size:20px}.service-row h3{font-size:22px}.steps h3{font-size:18px}.form-card h2{font-size:24px}.request-heading h1{font-size:clamp(25px,7.5vw,34px)}}
 @media(max-width:480px){.steps{grid-template-columns:minmax(0,1fr);gap:28px}.steps article{min-width:0}.step-mark{margin-bottom:16px;padding-bottom:12px}}
+@media(max-width:480px){.form-card .success h2{font-size:clamp(18px,5.5vw,24px)}}
